@@ -8,7 +8,7 @@ Module.register("compliments", {
 	// Module config defaults.
 	defaults: {
 		compliments:
-			["I love myself", "I look good today and everyday", "I achieve what I set my mind to", "Success comes from within me"],
+			["i love myself", "i look good today and everyday", "i achieve what i set my mind to", "success comes from within me"],
 		updateInterval: 30000,
 		remoteFile: null,
 		fadeSpeed: 4000,
